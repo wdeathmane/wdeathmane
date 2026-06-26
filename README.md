@@ -1,16 +1,127 @@
-## Hi there 👋
+ <div align="left">
 
-<!--
-**wdeathmane/wdeathmane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# death 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+`low-level systems • reverse engineering • tooling`
+
+
+<img src="https://counter.lunoxia.net/get/@death?theme=rule34" />
+
+
+</div>
+
+
+---
+
+
+## about
+
+
+```txt
+
+name : death
+
+alias : meds / death
+location : massachusetts, us
+
+focus : systems programming, reverse engineering, tooling
+
+status : high school student
+
+````
+
+
+i like understanding systems at the lowest useful level
+
+and building tools that are fast, minimal, and intentional.
+
+
+---
+
+
+## environment
+
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/windows-10-111111?style=for-the-badge&logo=windows&logoColor=white" />
+
+<img src="https://img.shields.io/badge/ubuntu-26.04-111111?style=for-the-badge&logo=ubuntu&logoColor=white" />
+
+</p>
+
+
+```txt
+
+main machine : endeavouros (hyprland) / windows 10
+
+home server : ubuntu 26.04
+
+```
+
+
+---
+
+
+## stack
+
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/c-111111?style=for-the-badge&logo=c&logoColor=white" />
+
+<img src="https://img.shields.io/badge/c++-111111?style=for-the-badge&logo=cplusplus&logoColor=white" />
+
+<img src="https://img.shields.io/badge/python-111111?style=for-the-badge&logo=python&logoColor=white" />
+
+<img src="https://img.shields.io/badge/html5-111111?style=for-the-badge&logo=html5&logoColor=white" />
+
+<img src="https://img.shields.io/badge/css3-111111?style=for-the-badge&logo=css3&logoColor=white" />
+
+</p>
+
+
+```txt
+
+systems : linux / windows internals
+
+focus : performance, memory, networking
+
+tools : automation, debugging, internal tooling
+
+```
+
+
+---
+
+
+## contact me!
+
+
+<p align="left">
+
+<a href="mailto:root@death">
+
+<img src="https://img.shields.io/badge/email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+
+</a>
+
+
+<a href="https://github.com/wdeathmane">
+
+<img src="https://img.shields.io/badge/github-111111?style=for-the-badge&logo=github&logoColor=white" />
+
+</a>
+
+
+
+
+<a href="https://discord.com/users/1380396036765388810">
+
+<img src="https://img.shields.io/badge/discord-111111?style=for-the-badge&logo=discord&logoColor=white" />
+
+</a>
+
+</p> 
